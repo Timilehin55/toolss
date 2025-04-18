@@ -1,0 +1,4 @@
+git clone https://github.com/Timilehin55/toolss.git
+cd toolss
+chmod +x Tools.py
+python Tools.py
